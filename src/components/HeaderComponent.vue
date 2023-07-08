@@ -25,7 +25,7 @@
             <a class="nav-link fw-bold mx-2" href="#">Consumers</a>
             <a class="nav-link fw-bold mx-2" href="#">FAQ</a>
             <a class="nav-link fw-bold mx-2" href="#">About</a>
-            <a class="btn join-us mx-2 me-5" href="">JOIN US</a>
+            <a class="btn join-us mx-2" href="">JOIN US</a>
           </div>
         </div>
       </div>
