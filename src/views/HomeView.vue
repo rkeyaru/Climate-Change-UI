@@ -2,24 +2,21 @@
 
 <template>
   <main>
-    <h1>
-      <div class="container text-center mt-5">
-        <div>
-          <h1 class="home-page-title">Together, companies</h1>
-        </div>
-        <div>
-          <h1 class="home-page-title">and consumers can halt</h1>
-        </div>
-        <div>
-          <h1 class="home-page-title">climate change.</h1>
+    <div class="container text-center mt-5">
+      <div class="text d-flex align-items-center justify-content-center">
+        <div class="home-page-title w-50">
+          <h1 class="text-heading">Together, companies and consumers  can halt climate change.</h1>
         </div>
       </div>
-    </h1>
+    </div>
   </main>
 </template>
 <style scoped>
-.home-page-title {
-  font-weight: 560;
-  font-size: 3rem;
+.text-heading {
+  
+  color: #001414;
+  font-family: Untitled Sans,Arial,sans-serif;
+  font-weight: bold;
+
 }
 </style>
