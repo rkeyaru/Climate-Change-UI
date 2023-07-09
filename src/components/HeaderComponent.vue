@@ -19,13 +19,13 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav ms-auto">
-            <a class="nav-link fw-bold mx-2" href="#">Why Go Neutral?</a>
-            <a class="nav-link fw-bold mx-2" href="#">How It Works</a>
-            <a class="nav-link fw-bold mx-2" href="#">Certified Brands</a>
-            <a class="nav-link fw-bold mx-2" href="#">Consumers</a>
-            <a class="nav-link fw-bold mx-2" href="#">FAQ</a>
-            <a class="nav-link fw-bold mx-2" href="#">About</a>
-            <a class="btn join-us mx-2 me-5" href="">JOIN US</a>
+            <a class="nav-link fw-bold mx-1" href="#">Why Go Neutral?</a>
+            <a class="nav-link fw-bold mx-1" href="#">How It Works</a>
+            <a class="nav-link fw-bold mx-1" href="#">Certified Brands</a>
+            <a class="nav-link fw-bold mx-1" href="#">Consumers</a>
+            <a class="nav-link fw-bold mx-1" href="#">FAQ</a>
+            <a class="nav-link fw-bold mx-1" href="#">About</a>
+            <a class="btn join-us mx-2" href="">JOIN US</a>
           </div>
         </div>
       </div>

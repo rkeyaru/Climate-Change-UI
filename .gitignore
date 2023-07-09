@@ -13,7 +13,7 @@ dist
 dist-ssr
 coverage
 *.local
-
+git.sh
 /cypress/videos/
 /cypress/screenshots/
 
