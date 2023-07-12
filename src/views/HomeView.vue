@@ -24,11 +24,11 @@
         </div>
 
         <div class="w-75">
-          <div class="row">
-            <div class="col-6 ps-5">
-              <h2 class="w-50 title">The world needs a price on carbon</h2>
+          <div class="row gap-sm-0 gap-lg-5">
+            <div class="col-5">
+              <h2 class="title">The world needs a price on carbon</h2>
             </div>
-            <div class="col-6 image-description-container w-50">
+            <div class="col col-lg-4 image-description-container ms-3">
               <p class="image-description upper lead">
                 Many governments have tried to find policy solutions.But their past attempts have
                 fallen short of the scale and impace needed.
@@ -37,7 +37,7 @@
                 Carbon pricing would create incentives to lower carbon emissions and spur low carbon
                 innovation.
               </p>
-              <p class="m-0 p-0 text-start fw-bold">Why Go Neutral</p>
+              <p class="lower  fw-bold">Why Go Neutral</p>
             </div>
           </div>
         </div>
@@ -81,17 +81,27 @@
 }
 
 .upper::first-letter {
+  margin-right: 3px;
   font-size: 300%;
   float: left;
   line-height: 1;
   display: inline-block;
 }
-.upper {
-}
-.lower {
+.upper,.lower {
+  text-align: left;
+  width:100%;
   padding-right: 5%;
+  padding-left: 5%;
+  margin-left: 5%;
+  margin-bottom: 8px;
 }
+
 .title {
-  margin-left: 30%;
+  margin-left: 40%;
+}
+@media only screen and (max-width: 1000px) {
+  .title {
+    margin-left: 0;
+  }
 }
 </style>
